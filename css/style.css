@@ -372,7 +372,7 @@ h1.typing-txt {
   margin: 0 auto;
 }
 .section03 .inner > .pg-right > img {
-  width: 1000px;
+  width: 100%;
   margin-left: 30px;
 }
 
@@ -462,6 +462,7 @@ h1.typing-txt {
   margin: 0 auto;
 }
 .section04 .inner > .pg-right > img {
+   width: 100%;
   margin-left: 30px;
 }
 
@@ -555,8 +556,9 @@ h1.typing-txt {
   margin: 0 auto;
 }
 .section05 .inner > .pg-right > img {
-  margin-left: 60px;
-  padding-left: 30px;
+  margin-left:60px;
+  padding-left:30px;
+  width:100%;
 }
 
 .footer-wrap {
