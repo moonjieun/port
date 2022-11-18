@@ -553,12 +553,10 @@ h1.typing-txt {
 }
 
 .section05 .inner > .pg-right {
-  margin: 0 auto;
+  text-align: center;
 }
 .section05 .inner > .pg-right > img {
-  margin-left:60px;
-  padding-left:30px;
-  width:100%;
+  width: 86%;
 }
 
 .footer-wrap {
